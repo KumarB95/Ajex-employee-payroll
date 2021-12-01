@@ -71,3 +71,6 @@ const remove = (node) => {
     document.querySelector(".emp-count").textContent = empPayrollList.length; 
     createInnerHtml();
 }
+
+
+
